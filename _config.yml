@@ -1,0 +1,28 @@
+name: arj
+favicon: null
+layout_spectrum: 0.15868720575235784
+typography_spectrum: 0.7432303722016513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9964535436592996
+  lightness: 0.24126298376359046
+  saturation: 0.7617650493048131
+  rhythmicContrast: 0.7904541820753366
+purpose: []
