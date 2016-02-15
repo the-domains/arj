@@ -2,6 +2,7 @@ name: arj
 favicon: null
 layout_spectrum: 0.28036
 typography_spectrum: 0.20141
+title: arj
 cta:
   domain: null
   bucket: null
